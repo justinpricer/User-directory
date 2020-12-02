@@ -6,7 +6,7 @@ import "./index.css";
 function App() {
   return (
     <div className="App">
-      <header className="jumbotron">
+      <header className="jumotron">
         Staff Directory
       </header>
       <Employee />

@@ -11,5 +11,5 @@ The React Employee Directory app allows for business professionals to access non
 
 ### Link To Deployed APP:
 
-[React Employee Directory Link](https://justinpricer.github.io/user-directory/)
+[React Employee Directory Link](https://mekaleka.github.io/react-employee-directory/)
 
