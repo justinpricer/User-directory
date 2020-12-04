@@ -1,12 +1,12 @@
 import React from "react";
 import Employee from "./pages/Employee";
-// import "./App.css";
+
 import "./index.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="jumbtron">
+      <header className="jumbotron">
         Staff Directory
       </header>
       <Employee />
